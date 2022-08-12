@@ -1,0 +1,5 @@
+Version 1.0
+
+This is added as an example
+
+Adding this line to see output of git diff
